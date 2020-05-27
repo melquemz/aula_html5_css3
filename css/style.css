@@ -1,0 +1,24 @@
+body{
+    background: mistyrose;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+header{
+    margin-top: 10px;
+}
+h1{
+    color: green;
+    font-family: sans-serif;
+}
+h2{
+    color: green;
+    font-family: sans-serif;
+}
+.img_padrao{
+    margin-bottom: 20px;
+    width: 500px;
+}
+footer{
+    margin-bottom: 30px;
+}
